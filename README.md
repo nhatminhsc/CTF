@@ -1,2 +1,2 @@
 # CTF
-just chill ctf =)))
+Hành trình với CTF =))
